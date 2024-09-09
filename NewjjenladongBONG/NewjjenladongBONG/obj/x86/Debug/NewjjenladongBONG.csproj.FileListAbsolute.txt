@@ -1,0 +1,22 @@
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\Projects\Peerapo 036-8\NewjjenladongBONG\NewjjenladongBONG\bin\Debug\NewjjenladongBONG.exe
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\Projects\Peerapo 036-8\NewjjenladongBONG\NewjjenladongBONG\bin\Debug\NewjjenladongBONG.pdb
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\Projects\Peerapo 036-8\NewjjenladongBONG\NewjjenladongBONG\obj\x86\Debug\NewjjenladongBONG.Properties.Resources.resources
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\Projects\Peerapo 036-8\NewjjenladongBONG\NewjjenladongBONG\obj\x86\Debug\NewjjenladongBONG.csproj.GenerateResource.Cache
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\Projects\Peerapo 036-8\NewjjenladongBONG\NewjjenladongBONG\obj\x86\Debug\NewjjenladongBONG.exe
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\Projects\Peerapo 036-8\NewjjenladongBONG\NewjjenladongBONG\obj\x86\Debug\NewjjenladongBONG.pdb
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\Projects\Peerapo 036-8\NewjjenladongBONG\NewjjenladongBONG\obj\x86\Debug\NewjjenladongBONG.FormLogin.resources
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\Projects\Peerapo 036-8\NewjjenladongBONG\NewjjenladongBONG\obj\x86\Debug\NewjjenladongBONG.Formmain.resources
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\Projects\Peerapo 036-8\NewjjenladongBONG\NewjjenladongBONG\obj\x86\Debug\NewjjenladongBONG.csprojResolveAssemblyReference.cache
+C:\Users\SCILXXWSXX\Documents\Visual Studio 2010\Projects\Peerapo 036-8\NewjjenladongBONG\NewjjenladongBONG\obj\x86\Debug\NewjjenladongBONG.FormCustomer.resources
+C:\Users\SCILXXWSXX\Desktop\NewjjenladongBONG\NewjjenladongBONG\obj\x86\Debug\NewjjenladongBONG.exe
+C:\Users\SCILXXWSXX\Desktop\NewjjenladongBONG\NewjjenladongBONG\obj\x86\Debug\NewjjenladongBONG.pdb
+C:\Users\SCILXXWSXX\Desktop\NewjjenladongBONG\NewjjenladongBONG\bin\Debug\NewjjenladongBONG.exe
+C:\Users\SCILXXWSXX\Desktop\NewjjenladongBONG\NewjjenladongBONG\bin\Debug\NewjjenladongBONG.pdb
+C:\Users\SCILXXWSXX\Desktop\NewjjenladongBONG\NewjjenladongBONG\obj\x86\Debug\NewjjenladongBONG.csprojResolveAssemblyReference.cache
+C:\Users\SCILXXWSXX\Desktop\NewjjenladongBONG\NewjjenladongBONG\obj\x86\Debug\NewjjenladongBONG.FormCustomer.resources
+C:\Users\SCILXXWSXX\Desktop\NewjjenladongBONG\NewjjenladongBONG\obj\x86\Debug\NewjjenladongBONG.Formmain.resources
+C:\Users\SCILXXWSXX\Desktop\NewjjenladongBONG\NewjjenladongBONG\obj\x86\Debug\NewjjenladongBONG.FormLogin.resources
+C:\Users\SCILXXWSXX\Desktop\NewjjenladongBONG\NewjjenladongBONG\obj\x86\Debug\NewjjenladongBONG.Properties.Resources.resources
+C:\Users\SCILXXWSXX\Desktop\NewjjenladongBONG\NewjjenladongBONG\obj\x86\Debug\NewjjenladongBONG.csproj.GenerateResource.Cache
+C:\Users\SCILXXWSXX\Desktop\NewjjenladongBONG\NewjjenladongBONG\obj\x86\Debug\NewjjenladongBONG.Addmin.resources
+C:\Users\SCILXXWSXX\Desktop\NewjjenladongBONG\NewjjenladongBONG\obj\x86\Debug\NewjjenladongBONG.FormLoginaddmin.resources
